@@ -129,7 +129,7 @@ As ferramentas de monitoramento do Azure — **Domínio de Objetivo**, **Azure M
 - [Visão geral do Resource Health](https://learn.microsoft.com/pt-br/azure/service-health/resource-health-overview)
 - [Log Analytics no Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/logs/log-analytics-overview?tabs=simple)
 - [Agente do Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/agents/azure-monitor-agent-manage?tabs=azure-portal)
-- [Agente do Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/agents/azure-monitor-agent-overview?source=recommendations)
+- [Visão Geral: Agente do Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/agents/azure-monitor-agent-overview?source=recommendations)
 - [Azure Monitor](https://azure.microsoft.com/pt-br/products/monitor/?msockid=2f267db490ab678b012b6bc491bf6601)
 - [Assistente do Azure](https://azure.microsoft.com/pt-br/products/advisor/?msockid=2f267db490ab678b012b6bc491bf6601)
 - [Calculadora de Preços Azure](https://azure.microsoft.com/pt-br/pricing/calculator/?ef_id=_k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&gad_source=1&gad_campaignid=1635078708&gbraid=0AAAAADcJh_s0nlhmSLvv4COb6oAkGNm0s&gclid=EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE)
