@@ -5,7 +5,7 @@ Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais
 
 ---
 ## 📘Tópicos Abordados
-As ferramentas de monitoramento do Azure são essenciais para gerenciar a performance, a disponibilidade e a segurança dos seus recursos na nuvem. A seguir, falaremos sobre essas três ferramentas que trabalhadas no mostram uma visão completa e proativa da infraestrutura na nuvem. 
+As ferramentas de monitoramento do Azure são essenciais para gerenciar a performance, a disponibilidade e a segurança dos seus recursos na nuvem. A seguir, falaremos sobre essas três ferramentas que trabalhadas nos mostram uma visão completa e proativa da infraestrutura na nuvem. 
 Enquanto o Domínio de Objetivo permite que se defina o que monitorar, o Azure Advisor ajuda a otimizar e melhorar os recursos, e o Azure Service Health o mantém informado sobre a saúde do próprio Azure.
 
 ---
