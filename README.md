@@ -136,3 +136,9 @@ As ferramentas de monitoramento do Azure — **Domínio de Objetivo**, **Azure M
 - [Assinatura do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits)
   
 📎 Link do curso: [Microsoft Azure AZ-900 - DIO.me](https://web.dio.me/track/microsoft-azure-az-900)
+
+---
+## 📜Licença 
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
